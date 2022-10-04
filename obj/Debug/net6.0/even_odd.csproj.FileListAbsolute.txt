@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\bin\Debug\net6.0\even_odd.exe
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\bin\Debug\net6.0\even_odd.deps.json
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\bin\Debug\net6.0\even_odd.runtimeconfig.json
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\bin\Debug\net6.0\even_odd.dll
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\bin\Debug\net6.0\even_odd.pdb
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\obj\Debug\net6.0\even_odd.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\obj\Debug\net6.0\even_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\obj\Debug\net6.0\even_odd.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\obj\Debug\net6.0\even_odd.AssemblyInfo.cs
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\obj\Debug\net6.0\even_odd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\obj\Debug\net6.0\even_odd.dll
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\obj\Debug\net6.0\refint\even_odd.dll
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\obj\Debug\net6.0\even_odd.pdb
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\obj\Debug\net6.0\even_odd.genruntimeconfig.cache
+C:\Users\User\Desktop\GB\C#\seminar1_domashka\even_odd\obj\Debug\net6.0\ref\even_odd.dll
